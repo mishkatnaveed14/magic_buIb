@@ -1,0 +1,16 @@
+.heading {
+    text-align: center;
+    font-weight: 900;
+    font-size: 56px;
+    color: rgb(176, 176, 1);
+}
+
+#hd-2 {
+    font-size: 28px;
+    color: black;
+}
+
+.container img {
+    display: block;
+    margin: 40px auto;
+}
